@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 化書
-#+DATE: 2015-08-24 23:19:44.415813
-#+PROPERTY: ID KR3j0017
-#+PROPERTY: BASEEDITION WYG    
